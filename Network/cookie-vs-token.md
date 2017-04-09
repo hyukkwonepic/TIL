@@ -26,3 +26,5 @@
 - stateless
 - 서버는 어떤 유저가 로그인되어있고 어떤 토큰이 발급되어있는지 기록하지 않음.
 - 매 request에 딸려온 토큰을 이용해서 인증의 유효성을 검사함
+
+참조: https://auth0.com/blog/cookies-vs-tokens-definitive-guide/
